@@ -1,0 +1,15 @@
+gym
+numpy
+torch
+defusedxml
+rospkg
+pyyaml
+catkin_pkg
+empy
+scipy
+cython
+stable-baselines3
+tensorboard
+pyglet
+noise
+scikit-image
