@@ -1,0 +1,14 @@
+./cmake-build-debug/*
+cmake-build-debug/*
+
+.idea/*
+
+./__pycache__/*
+__pycache__/*
+
+./test_models/*
+
+models/*
+
+loginfo/*
+key*
